@@ -1,5 +1,5 @@
 # face_recognition_examples
-A bit changed examples of face_recognition package used for YouYube showcase of the package.
+A bit changed examples of face_recognition package used for Youtube showcase of the package.
 
 The face_recognition package: https://github.com/ageitgey/face_recognition
 Link to my explainer video: 
